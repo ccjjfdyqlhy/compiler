@@ -1,0 +1,17 @@
+# Build artifacts
+*.o
+PyRite
+
+# Editor
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test modules (user files)
+test_modules/
